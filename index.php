@@ -9,7 +9,7 @@
 		<input name="company" id="company_id" type="text" size="15" required>
 		<div style="font-size: 14px; width: 80px;">Период:</div>
 		<select name="type" id="type">
-			<option id="7" style="width: 274px;" value="last_7d">Последние 6 дней</option>
+			<option id="7" style="width: 274px;" value="last_7d">Последние 7 дней</option>
 			<option id="30" style="width: 274px;" value="last_30d">Последние 30 дней</option>
 			<option id="90" style="width: 274px;" value="last_90d">Последние 90 дней</option>
 			<option id="all" style="width: 274px;" value="lifetime">Все время</option>
